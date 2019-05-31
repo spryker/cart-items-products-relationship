@@ -4,6 +4,8 @@
 
 CartItemsProductsRelationship module provides relationship between cart items and concrete product resources.
 
+**This module is not continued at this point.**
+
 ## Installation
 
 ```
